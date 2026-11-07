@@ -1,3 +1,6 @@
+## v2 — 2026-11-07 06:37 UTC
+- label fix: stream count wording
+
 # Changelog
 
 ## v1 — 2026-11-07
