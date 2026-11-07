@@ -2,6 +2,9 @@
 
 All times HKT (UTC+8). Newest first. One entry per publish, written by `publish.sh`.
 
+## v17 — 2026-11-07 23:46 HKT
+- screen tab: watchlist grouping is intent buckets or liquidity buckets, not one fixed layout
+
 ## v16 — 2026-11-07 23:44 HKT
 - screen tab note: watchlist verified persistent across the session and grouped INDEXES/LONGS/SHORTS/FOCUS/TRACKING
 
