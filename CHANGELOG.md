@@ -1,3 +1,6 @@
+## v3 — 2026-11-07 07:03 UTC
+- redesign: design-spec layout, KPI strip, evidence tiers, sticky header, keyboard nav
+
 ## v2 — 2026-11-07 06:37 UTC
 - label fix: stream count wording
 
