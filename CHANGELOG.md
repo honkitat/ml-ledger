@@ -2,6 +2,9 @@
 
 All times HKT (UTC+8). Newest first. One entry per publish, written by `publish.sh`.
 
+## v18 — 2026-11-08 04:02 HKT
+- Charts tab (candles + entry/exit markers, focused trip band and labels) and Stats tab (official vs reconstruction, long/short, setups, limits)
+
 ## v17 — 2026-11-07 23:46 HKT
 - screen tab: watchlist grouping is intent buckets or liquidity buckets, not one fixed layout
 
