@@ -1,3 +1,6 @@
+## v4 — 2026-11-07 07:12 UTC
+- v4: corrected screen-verification claim (video IS obtainable via loader.to) + journal reconciliation block
+
 ## v3 — 2026-11-07 07:03 UTC
 - redesign: design-spec layout, KPI strip, evidence tiers, sticky header, keyboard nav
 
