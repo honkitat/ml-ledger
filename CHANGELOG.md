@@ -1,3 +1,6 @@
+## v3 — 2026-11-07 06:34 UTC
+- v1 — initial ledger: 626 events, 411 actions, evidence tiers, round trips, rule statements
+
 ## v2 — 2026-11-07 06:34 UTC
 - v1 — initial ledger: 626 events, 411 actions, evidence tiers, round trips, rule statements
 
