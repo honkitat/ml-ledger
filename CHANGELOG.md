@@ -1,3 +1,6 @@
+## v5 — 2026-11-07 07:34 UTC
+- v5: Screen evidence tab (192 frames, 0 broker panels), live-journal flag, corrected video claim
+
 ## v4 — 2026-11-07 07:12 UTC
 - v4: corrected screen-verification claim (video IS obtainable via loader.to) + journal reconciliation block
 
