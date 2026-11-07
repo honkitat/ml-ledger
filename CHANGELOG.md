@@ -2,6 +2,9 @@
 
 All times HKT (UTC+8). Newest first. One entry per publish, written by `publish.sh`.
 
+## v10 — 2026-11-07 22:27 HKT
+- screen tab: highlight watchlist symbols that also appear in the ledger, cap crop height
+
 ## v9 — 2026-11-07 22:24 HKT
 - screen tab: watchlist read at 1080p (symbols legible), cross-check vs ledger; unified filter bar on every tab; newest-first default everywhere
 
