@@ -1,16 +1,25 @@
-## v5 — 2026-11-07 07:34 UTC
-- v5: Screen evidence tab (192 frames, 0 broker panels), live-journal flag, corrected video claim
-
-## v4 — 2026-11-07 07:12 UTC
-- v4: corrected screen-verification claim (video IS obtainable via loader.to) + journal reconciliation block
-
-## v3 — 2026-11-07 07:03 UTC
-- redesign: design-spec layout, KPI strip, evidence tiers, sticky header, keyboard nav
-
-## v2 — 2026-11-07 06:37 UTC
-- label fix: stream count wording
-
 # Changelog
 
-## v1 — 2026-11-07
-- Initial ledger: 626 events / 411 actions from 98 streams, evidence tiers A/B/C, 236 round trips, 473 rule statements, PDF + workbook.
+All times HKT (UTC+8). Newest first. One entry per publish, written by `publish.sh`.
+
+## v6 — 2026-11-07 20:12 HKT
+- update format: changelog header first, single version prefix, HKT stamps
+
+## v5 — 2026-11-07 15:34 HKT
+- Screen evidence tab: 192 frames sampled from EP113-115, 0 broker positions/orders panels
+- Per-event `J` flag joining each row to the live journal sheet
+- Corrected the earlier "video is unreachable" claim (video is obtainable via loader.to)
+
+## v4 — 2026-11-07 15:12 HKT
+- Verification tab: source and reconciliation block against the live journal sheet
+- Corrected the screen-verification wording throughout
+
+## v3 — 2026-11-07 15:03 HKT
+- Redesign per design spec: KPI strip, sticky header, evidence tiers, keyboard navigation, single-row toolbar
+
+## v2 — 2026-11-07 14:37 HKT
+- Fixed the stream-count label ("streams with events")
+
+## v1 — 2026-11-07 14:00 HKT
+- Initial ledger: 626 events / 411 actions from 98 streams, evidence tiers A/B/C, 236 round trips,
+  473 rule statements, 20-page PDF and workbook
