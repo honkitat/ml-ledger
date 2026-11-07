@@ -2,6 +2,9 @@
 
 All times HKT (UTC+8). Newest first. One entry per publish, written by `publish.sh`.
 
+## v19 — 2026-11-08 04:07 HKT
+- charts: series window covers every trip for the ticker (SNDK/MSTR were clipped), legend states labels are bar closes
+
 ## v18 — 2026-11-08 04:02 HKT
 - Charts tab (candles + entry/exit markers, focused trip band and labels) and Stats tab (official vs reconstruction, long/short, setups, limits)
 
