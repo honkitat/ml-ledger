@@ -2,6 +2,9 @@
 
 All times HKT (UTC+8). Newest first. One entry per publish, written by `publish.sh`.
 
+## v9 — 2026-11-07 22:24 HKT
+- screen tab: watchlist read at 1080p (symbols legible), cross-check vs ledger; unified filter bar on every tab; newest-first default everywhere
+
 ## v8 — 2026-11-07 21:10 HKT
 - dark theme by default with light toggle, mobile filter collapse, legend, colour and contrast pass
 
