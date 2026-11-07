@@ -1,12 +1,4 @@
-## v3 — 2026-11-07 06:34 UTC
-- v1 — initial ledger: 626 events, 411 actions, evidence tiers, round trips, rule statements
-
-## v2 — 2026-11-07 06:34 UTC
-- v1 — initial ledger: 626 events, 411 actions, evidence tiers, round trips, rule statements
-
-## v0
-0 — 2026-11-07 06:33 UTC
-- v1 — initial ledger: 626 events, 411 actions, evidence tiers, round trips, rule statements
-
 # Changelog
 
+## v1 — 2026-11-07
+- Initial ledger: 626 events / 411 actions from 98 streams, evidence tiers A/B/C, 236 round trips, 473 rule statements, PDF + workbook.
