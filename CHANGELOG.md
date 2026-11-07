@@ -2,6 +2,9 @@
 
 All times HKT (UTC+8). Newest first. One entry per publish, written by `publish.sh`.
 
+## v16 — 2026-11-07 23:44 HKT
+- screen tab note: watchlist verified persistent across the session and grouped INDEXES/LONGS/SHORTS/FOCUS/TRACKING
+
 ## v15 — 2026-11-07 23:41 HKT
 - watchlist reads now span each full episode (EP113 t+3m to t+2h17, EP114 to t+2h30, EP115 to t+58m); corrected the earlier opening-only claim
 
