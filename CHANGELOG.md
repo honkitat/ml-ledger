@@ -2,6 +2,9 @@
 
 All times HKT (UTC+8). Newest first. One entry per publish, written by `publish.sh`.
 
+## v12 — 2026-11-07 22:45 HKT
+- EP114 watchlist reads completed (4 crops, 70 symbols)
+
 ## v11 — 2026-11-07 22:35 HKT
 - watchlist reads completed across EP113-115 (full episodes), 131/79/18 symbols
 
