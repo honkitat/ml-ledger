@@ -2,6 +2,9 @@
 
 All times HKT (UTC+8). Newest first. One entry per publish, written by `publish.sh`.
 
+## v8 — 2026-11-07 21:10 HKT
+- dark theme by default with light toggle, mobile filter collapse, legend, colour and contrast pass
+
 ## v7 — 2026-11-07 20:14 HKT
 - build stamp in HKT; page header shows as-of time
 
