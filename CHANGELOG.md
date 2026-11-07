@@ -2,6 +2,9 @@
 
 All times HKT (UTC+8). Newest first. One entry per publish, written by `publish.sh`.
 
+## v7 — 2026-11-07 20:14 HKT
+- build stamp in HKT; page header shows as-of time
+
 ## v6 — 2026-11-07 20:12 HKT
 - update format: changelog header first, single version prefix, HKT stamps
 
