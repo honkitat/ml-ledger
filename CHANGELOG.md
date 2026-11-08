@@ -2,6 +2,9 @@
 
 All times HKT (UTC+8). Newest first. One entry per publish, written by `publish.sh`.
 
+## v22 — 2026-11-08 17:03 HKT
+- per-trade study view: trip list, zoomed chart, verbatim quotes inside the window, readable outcomes
+
 ## v21 — 2026-11-08 14:37 HKT
 - 10 tabs collapsed to 5 groups with sub-nav (Book/Stats/Streams/Playbook/Method); per-trade jump to chart from the drawer and round trips
 
