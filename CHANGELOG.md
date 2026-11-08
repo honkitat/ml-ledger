@@ -2,6 +2,9 @@
 
 All times HKT (UTC+8). Newest first. One entry per publish, written by `publish.sh`.
 
+## v24 — 2026-11-08 18:13 HKT
+- backfill: 6 previously missing 2026 streams extracted (+36 trade mentions, +19 rule statements)
+
 ## v23 — 2026-11-08 17:57 HKT
 - study mode: per-trade rows with bracket move, study states (unseen/studied/saved), sorts by move/quotes/hold
 
