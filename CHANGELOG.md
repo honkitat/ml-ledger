@@ -2,6 +2,9 @@
 
 All times HKT (UTC+8). Newest first. One entry per publish, written by `publish.sh`.
 
+## v23 — 2026-11-08 17:57 HKT
+- study mode: per-trade rows with bracket move, study states (unseen/studied/saved), sorts by move/quotes/hold
+
 ## v22 — 2026-11-08 17:03 HKT
 - per-trade study view: trip list, zoomed chart, verbatim quotes inside the window, readable outcomes
 
