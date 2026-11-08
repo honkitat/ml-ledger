@@ -2,6 +2,9 @@
 
 All times HKT (UTC+8). Newest first. One entry per publish, written by `publish.sh`.
 
+## v26 — 2026-11-08 18:41 HKT
+- documented the one 2026 stream we cannot fetch (27 Aug, 3.04h vs the converter's 3h cap)
+
 ## v25 — 2026-11-08 18:15 HKT
 - fix: verify runs after build_deliverables so backfilled events reach the page (626 -> 662)
 
