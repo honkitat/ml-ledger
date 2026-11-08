@@ -2,6 +2,9 @@
 
 All times HKT (UTC+8). Newest first. One entry per publish, written by `publish.sh`.
 
+## v20 — 2026-11-08 14:17 HKT
+- comparison with the paid deep-dive (strong-model review), per-stream quality audit tab
+
 ## v19 — 2026-11-08 04:07 HKT
 - charts: series window covers every trip for the ticker (SNDK/MSTR were clipped), legend states labels are bar closes
 
